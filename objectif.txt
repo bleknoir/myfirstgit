@@ -1,0 +1,6 @@
+
+Objectifs : séances prochaines : 
+Avoir 3 niveau : 
+- 1 er niveau  simple tuto du jeux . 
+- 2 eme niveau un labyrinthe ou des ennemis et des pieges se trouve , il faut ouvrir des portes 
+- 3 éme niveau  un boss qui balance des shockwave et ou il faut sauter en rythme pour le battre (temps de survit)
